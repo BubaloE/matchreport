@@ -1,0 +1,9 @@
+pandas
+mplsoccer
+requests
+xml.etree.ElementTree
+matplotlib.pyplot
+numpy
+cmasher
+matplotlib.cm
+matplotlib.image
