@@ -1,7 +1,0 @@
-pandas
-mplsoccer
-requests
-xml.etree.ElementTree
-matplotlib
-numpy
-cmasher
