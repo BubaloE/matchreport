@@ -2,8 +2,6 @@ pandas
 mplsoccer
 requests
 xml.etree.ElementTree
-matplotlib.pyplot
+matplotlib
 numpy
 cmasher
-matplotlib.cm
-matplotlib.image
